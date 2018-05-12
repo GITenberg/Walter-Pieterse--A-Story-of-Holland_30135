@@ -20,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Multatuli
     - http://www.iisg.nl/bwsa/bios/douwes-dekker.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30135#Walter-Pieterse--A-Story-of-Holland
 gutenberg_issued: '2009-09-29'
 gutenberg_type: Text
 identifiers:
