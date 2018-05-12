@@ -1,0 +1,35 @@
+_repo: Walter-Pieterse--A-Story-of-Holland_30135
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Evans, Hubert
+    gutenberg_agent_id: '34394'
+    url: http://www.gutenberg.org/2009/agents/34394
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Multatuli
+    alias: Dekker, Eduard Douwes
+    birthdate: 1820
+    deathdate: 1887
+    gutenberg_agent_id: '3624'
+    url: http://www.gutenberg.org/2009/agents/3624
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Multatuli
+    - http://www.iisg.nl/bwsa/bios/douwes-dekker.html
+description: ''
+gutenberg_issued: '2009-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30135'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Netherlands -- Fiction'
+- !lcc 'PT'
+title: 'Walter Pieterse: A Story of Holland'
+url: http://www.gutenberg.org/ebooks/30135
